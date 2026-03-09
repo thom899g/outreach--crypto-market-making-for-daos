@@ -1,0 +1,10 @@
+firebase-admin==6.4.0
+web3==6.11.1
+pandas==2.2.1
+numpy==1.26.4
+ccxt==4.2.17
+scikit-learn==1.4.2
+python-dotenv==1.0.0
+requests==2.31.0
+google-cloud-firestore==2.15.2
+websocket-client==1.7.0
